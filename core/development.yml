@@ -5,3 +5,6 @@ db:
   setting:
     enabled: true
     other: tls-node
+
+cors:
+  enabled: false
