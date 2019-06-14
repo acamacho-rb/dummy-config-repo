@@ -1,4 +1,4 @@
-setting1: 1
-setting2: "2"
-setting3: true
-setting4: tls-node
+- setting1: 1
+- setting2: "2"
+- setting3: true
+- setting4: tls-node
