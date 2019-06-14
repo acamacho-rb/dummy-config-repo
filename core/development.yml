@@ -1,4 +1,4 @@
-db.url.node: localhost
-db.url.port: 3306
-db.setting2.enabled: true
-db.setting2.otro: tls-node
+- db.url.node: localhost
+- db.url.port: 3306
+- db.setting2.enabled: true
+- db.setting2.otro: tls-node
