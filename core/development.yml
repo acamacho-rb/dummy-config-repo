@@ -1,3 +1,10 @@
-a:
-  env:
-  - A=1
+db:
+  url:
+    node: localhost
+    port: 3306
+  setting:
+    enabled: true
+    other: tls-node
+
+cors:
+  enabled: false
