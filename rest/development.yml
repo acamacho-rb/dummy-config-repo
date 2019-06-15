@@ -1,4 +1,4 @@
 db:
-  host: my-db.localhost
+  host: localhost
   port: 3305
 
