@@ -1,10 +1,9 @@
 db:
   url:
-    node: localhost-9000
+    node: localhost
     port: 13306
   setting:
     enabled: false
-    other: tls-node
 
 cors:
-  enabled: true
+  enabled: false
