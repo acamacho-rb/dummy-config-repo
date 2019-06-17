@@ -3,7 +3,7 @@ db:
     node: localhost
     port: 3306
   setting:
-    enabled: false
+    enabled: true
 
 cors:
   enabled: false
