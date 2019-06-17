@@ -1,7 +1,7 @@
 db:
   url:
     node: localhost
-    port: 13306
+    port: 3306
   setting:
     enabled: false
 
