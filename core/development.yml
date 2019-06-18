@@ -4,6 +4,7 @@ db:
     port: 5555
   setting:
     enabled: false
+    other: "ppp"
 
 cors:
   enabled: false
