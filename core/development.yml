@@ -1,9 +1,9 @@
 db:
   url:
-    node: localhost
-    port: 3306
+    node: prod.db
+    port: 5555
   setting:
-    enabled: true
+    enabled: false
 
 cors:
   enabled: false
