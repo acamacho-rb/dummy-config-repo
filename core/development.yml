@@ -1,10 +1,10 @@
 db:
   url:
-    node: prod.db
-    port: 5555
+    node: localhost
+    port: 3306
   setting:
-    enabled: false
-    other: "ppp"
+    enabled: true
+    other: 0
 
 cors:
   enabled: false
