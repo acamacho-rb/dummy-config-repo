@@ -1,9 +1,9 @@
 db:
   url:
-    node: localhost
-    port: 3306
+    node: db.local
+    port: 7000
   setting:
-    enabled: true
+    enabled: false
     other: 0
 
 cors:
