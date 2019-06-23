@@ -1,10 +1,10 @@
 db:
   url:
-    node: db.local
-    port: 7000
+    node: db
+    port: 8000
   setting:
-    enabled: false
-    other: 0
+    enabled: true
+    other: 110
 
 cors:
   enabled: false
