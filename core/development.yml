@@ -1,6 +1,6 @@
 db:
   url:
-    node: local
+    node: localhost
     port: 3306
   setting:
     enabled: true
