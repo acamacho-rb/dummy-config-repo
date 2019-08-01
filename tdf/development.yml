@@ -1,4 +1,4 @@
 redis:
   host: "redis.io.com"
-  port: 30
+  port: 9000
   enabled: true
