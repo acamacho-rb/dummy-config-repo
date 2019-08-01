@@ -1,0 +1,4 @@
+redis:
+  host: "redis.io"
+  port: "30"
+  enabled: true
