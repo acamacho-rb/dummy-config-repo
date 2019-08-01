@@ -1,4 +1,4 @@
 redis:
-  host: "redis.io"
+  host: "redis.io.com"
   port: 30
   enabled: true
