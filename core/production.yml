@@ -1,4 +1,0 @@
-setting1:
-  chapter1:
-    node: localhost
-    port: 3306
