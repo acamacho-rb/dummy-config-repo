@@ -1,10 +1,1 @@
-db:
-  url:
-    node: localhost
-    port: 3306
-  setting:
-    enabled: true
-    other: 20
-
-cors:
-  enabled: false
+99887as

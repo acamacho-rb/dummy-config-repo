@@ -1,4 +1,0 @@
-redis:
-  host: "redis.io.com"
-  port: 9000
-  enabled: true

@@ -1,4 +1,0 @@
-db:
-  host: localhost.db
-  port: 3305
-  proxy: proxy.db.com.ar
