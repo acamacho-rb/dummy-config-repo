@@ -4,7 +4,7 @@ db:
     port: 3306
   setting:
     enabled: true
-    other: [20, 30]
+    other: 20
 
 cors:
   enabled: false
